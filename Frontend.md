@@ -50,7 +50,3 @@ Apenas usuários logados podem ter acesso à Página de Dashboard. Use a imagem 
  - Usar um framework/lib JS para construção do SPA (preferenciamente React.js) 
  - ### Bonus
    - Implementar testes
-
-## Submissão
- - Crie um repositório **privado** no Github, Bitbucket ou Gitlab
- - Adicione o usuário sob o email vinicius.docarmo@orbita.cc como membro do projeto

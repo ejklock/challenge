@@ -1,48 +1,56 @@
 # Frontend Programming challenge
 
 ## Evaluation Criteria
- - Working Solution
- - Project organization
+ - Solução funcional
+ - Organização do projeto
  - Clean code
- - Good design (follow the provided image)
- - Deployment
+ - UX/UI (use a imagem fornecida como ponto de partida)
+ - Deploy
 
 ## Description
-  The goal of this challenge is to assess your ability to build an SPA from scratch using a javascript framework. 
-  We provide a json file containing data about solar installations (Data Provider, Installation Date,	System Size,	Zip Code,	State,	Cost) that you should use to create/display some graphics. (Our tip here is to use [Json Server](https://github.com/typicode/json-server) to serve the json data in a rest api format.)
 
-  The website should have two pages:
-  - One for login / account setup 
-  - Another for graphics display
+O objetivo desse desafio é avaliar suas habilidades para construção de uma aplicação Single Page Application (SPA) usando React.js para a construção da interface. Nós provemos um [arquivo JSON]() contendo dados de instalação de painéis solares que você deve usar para construção de um gráfico. A tabela abaixo mostra a descrição de cada atributo.
+
+| Nome  | Descrição |
+| ------------- | ------------- |
+| Data Provider  | TODO  |
+| Installation Date  | TODO  |
+| System Size  | TODO  |
+| Zip Code  | TODO  |
+| State | TODO  |
+| Cost | TODO  |
+
+ A aplicação deve ter três páginas:
+  - Login
+  - Criação de conta
+  - Dashboard
   
-  The login/signup feature can be mocked. No need to come up with a server implementation for it.
-  Only logged users should be able to access the graphics area.
-  Use the below image as a guide for your implementation.
-  ![Dashboard look](https://github.com/sauloaguiar/orbita.cc/blob/master/data/dahsboard.jpg "Dashboard")
+Apenas usuários logados podem ter acesso à Página de Dashboard. Use a imagem abaixo como um guia para sua aplicação.
+
+![Dashboard look](https://github.com/sauloaguiar/orbita.cc/blob/master/data/dahsboard.jpg "Dashboard")
 
   
   
-  We expect you to implement the following visualizations:
-  - Timeline with \# of installs grouped by month/year
-  - Installed capacity grouped by month/year
-  - Cost grouped by month/year
+É espera que você implemente as seguintes visualizações:
+  - Timeline com o número de instalações agrupadas pelo mês de instalação
+  - Capacidade instalada agrupada pelo ano de instalação
+  - Custo agrupado pelo mês de instalção
 
-  Also, following the provided image, the bottom squares should contain the following information
-  - \# of installs in the period
-  - Data about the biggest (cost or size wise) installation
-  - Data about the top three companies (those who have more installs)
-    Company name
-    total capacity installed
+  Também, os 3 widgets disponíveis nas imagens devem mostrar:
+  - Número de instalação no período
+  - Mostrar a instalação com maior custo
+  - Mostrar as 3 maiores empresas com maior número de instalação
+    Nome da empresa
+    Total instalado
 
 ## Requirements
- - Create a readme describing how to run the project
- - Deploy to a cloud provider of your choice (Heroku, AWS, Azure, Google)
- - Project **must** be versioned using git
- - Front end **must** be done using a SPA framework (preferably React.js) 
- - ### BONUS
-   - Test your code
-   - Add a dropdown/datepicker to select the date period to be considered
+ - Crie um README mostrando como executar sua aplicação
+ - Deploy em um cloud provider de sua escolha (Heroku, AWS, Azure, Google)
+ - Projeto deve ser versionado com Git
+ - Usar um framework/lib JS para construção do SPA (preferenciamente React.js) 
+ - ### Bonus
+   - Implementar testes
 
-## Submission
- - Create a private git repo online (github or bitbucket)
- - Share the project with us
+## Submissão
+ - Crie um repositório **privado** no Github, Bitbucket ou Gitlab
+ - Adicione o usuário sob o email vinicius.docarmo@orbita.cc como membro do projeto

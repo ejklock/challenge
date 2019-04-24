@@ -1,13 +1,13 @@
 # Frontend Programming challenge
 
-## Evaluation Criteria
+## Critério de avaliação
  - Solução funcional
  - Organização do projeto
  - Clean code
  - UX/UI (use a imagem fornecida como ponto de partida)
  - Deploy
 
-## Description
+## Descrição
 
 O objetivo desse desafio é avaliar suas habilidades para construção de uma aplicação Single Page Application (SPA) usando React.js para a construção da interface. Nós provemos um [arquivo JSON]() contendo dados de instalação de painéis solares que você deve usar para construção de um gráfico. A tabela abaixo mostra a descrição de cada atributo.
 
@@ -43,7 +43,7 @@ Apenas usuários logados podem ter acesso à Página de Dashboard. Use a imagem 
     Nome da empresa
     Total instalado
 
-## Requirements
+## Requisitos
  - Crie um README mostrando como executar sua aplicação
  - Deploy em um cloud provider de sua escolha (Heroku, AWS, Azure, Google)
  - Projeto deve ser versionado com Git

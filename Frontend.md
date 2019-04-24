@@ -43,10 +43,14 @@ Apenas usuários logados podem ter acesso à Página de Dashboard. Use a imagem 
     Nome da empresa
     Total instalado
 
-## Requisitos
+## Requisitos obrigatórios
  - Crie um README mostrando como executar sua aplicação
- - Deploy em um cloud provider de sua escolha (Heroku, AWS, Azure, Google)
- - Projeto deve ser versionado com Git
- - Usar um framework/lib JS para construção do SPA (preferenciamente React.js) 
- - ### Bonus
-   - Implementar testes
+ - Utilizar React para construção da UI. Se preferir, use o create-react-app como ponto de partida;
+ - Padronização do código: seguir algum styleguide de JavaScript e CSS. Se preferir utilize o Prettier;
+
+## Requisitos opcionais
+ - Implementar testes
+ - Gerenciar estado da aplicação utilizando Redux
+   - Nesse caso, utilizar redux-thunk para chamadas assíncronas
+   
+ 

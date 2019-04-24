@@ -23,8 +23,4 @@
   - ### BONUS
     - Implementar testes
     - Documentar a API
-
-## Submissão
- - Crie um repositório **privado** no Github, Bitbucket ou Gitlab
- - Adicione o usuário sob o email vinicius.docarmo@orbita.cc como membro do projeto
  

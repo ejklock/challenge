@@ -48,7 +48,7 @@ Apenas usuários logados podem ter acesso à Página de Dashboard. Use a imagem 
  - Utilizar React para construção da UI. Se preferir, use o create-react-app como ponto de partida;
  - Padronização do código: seguir algum styleguide de JavaScript e CSS. Se preferir utilize o Prettier;
 
-## Requisitos opcionais
+## Bônus
  - Implementar testes
  - Gerenciar estado da aplicação utilizando Redux
    - Nesse caso, utilizar redux-thunk para chamadas assíncronas

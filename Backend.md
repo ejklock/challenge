@@ -28,6 +28,7 @@
   - Utilizar Node.js para implementação da API utilizando o framework de sua preferência. Alguns exemplos: [Express.js](https://expressjs.com/), [NestJS](https://nestjs.com) e [Koa](https://koajs.com)
   - A API deve retornar os dados apenas para usuário logados
   - Padronização do código: seguir algum styleguide de JavaScript e CSS. Se preferir utilize o [Prettier](https://prettier.io/)
+  - Utilizar o conjunto de dados por completo
   - Persistir os dados utilizando um banco de dados. Alguns exemplos: [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com) e [MySQL](https://www.mysql.com)
  
 ## Bônus

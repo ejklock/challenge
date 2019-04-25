@@ -11,15 +11,6 @@
 
 O objetivo desse desafio é avaliar suas habilidades para construção de uma aplicação Single Page Application (SPA) usando React.js para a construção da interface. Nós provemos um [arquivo JSON]() contendo dados de instalação de painéis solares que você deve usar para construção de um gráfico. A tabela abaixo mostra a descrição de cada atributo.
 
-| Nome  | Descrição |
-| ------------- | ------------- |
-| Data Provider  | TODO  |
-| Installation Date  | TODO  |
-| System Size  | TODO  |
-| Zip Code  | TODO  |
-| State | TODO  |
-| Cost | TODO  |
-
  A aplicação deve ter três páginas:
   - Login
   - Criação de conta

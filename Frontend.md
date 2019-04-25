@@ -27,11 +27,14 @@ Apenas usuários logados podem ter acesso à página de Dashboard. Use a imagem 
   - Custo agrupado pelo mês de instalção
 
 Os 3 widgets disponíveis nas imagens devem mostrar:
-  1. Número de instalações feitas
-  2. Mostrar a instalação com maior custo
-  3. Mostrar os 3 meses do ano com o maior número de instalações. Deve ser mostrada as infomações:
+  1. Número de instalações feitas. Informações:
+    - Valor total
+    - Estado (`State`)
+  2. Mostrar a instalação com maior custo. Informações:
+    - CEP (`Zip Code`) do local de instalação
+    - Custo da instalação
+  3. Mostrar os 3 meses do ano com o maior número de instalações. Informações:
     - CEP
-    - Colocação
     - Total instalado
     
 ⚠️ Todas as informações mostradas no Dashboard devem abranger apenas o estado (`State`) do usuário logado.

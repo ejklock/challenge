@@ -1,5 +1,12 @@
 # Backend Programming challenge
 
+## Critério de avaliação
+ - Solução funcional
+ - Organização do projeto
+ - Arquitetura
+ - Clean code
+ - [Controle de acesso](https://en.wikipedia.org/wiki/Access_control) de sua API
+
 ## Descrição
   O desafio consiste em construir um API para servir os dados para a aplicação Front-end. Para isso, você deverá importar [este conjunto de dados](https://drive.google.com/file/d/1dbURdS6TjfnweoFSB_0vqJpn77QJFXoZ/view?usp=sharing) em uma tabela no banco de dados de sua escolha. Esse arquivo contêm dados de instalação de painéis solares nos EUA. O quadro abaixo mostra os atributos do conjunto de dados e sua descrição. Você deverá expor esses dados através da API.
 

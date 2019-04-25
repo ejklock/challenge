@@ -3,6 +3,7 @@
 ## Critério de avaliação
  - Solução funcional
  - Organização do projeto
+ - Arquitetura
  - Clean code
  - UX/UI (use a imagem fornecida como ponto de partida)
 
@@ -26,9 +27,9 @@ Apenas usuários logados podem ter acesso à página de Dashboard. Use a imagem 
   - Custo agrupado pelo mês de instalção
 
 Os 3 widgets disponíveis nas imagens devem mostrar:
-  1. Número de instalações feitas *
-  2. Mostrar a instalação com maior custo *
-  3. Mostrar os 3 meses do ano com o maior número de instalações *. Deve ser mostrada as infomações:
+  1. Número de instalações feitas
+  2. Mostrar a instalação com maior custo
+  3. Mostrar os 3 meses do ano com o maior número de instalações. Deve ser mostrada as infomações:
     - CEP
     - Colocação
     - Total instalado

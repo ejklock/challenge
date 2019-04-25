@@ -39,7 +39,6 @@ Os 3 widgets disponíveis nas imagens devem mostrar:
 ⚠️ Todas as informações mostradas no Dashboard devem abranger apenas o estado (`State`) do usuário logado.
 
 ## Requisitos obrigatórios
- - Crie um arquivo README mostrando como executar sua aplicação
  - Utilizar React para construção da UI. Se preferir, use o [create-react-app](https://github.com/facebook/create-react-app) como ponto de partida
  - Padronização do código: seguir algum styleguide de JavaScript e CSS. Se preferir utilize o [Prettier](https://prettier.io/)
 

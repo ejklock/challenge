@@ -1,11 +1,5 @@
 # Backend Programming challenge
 
-## Critério de avaliação
- - Solução funcional
- - Organização do projeto
- - Clean code
- - Deployment
-
 ## Descrição
   O desafio consiste em construir um API para servir os dados para a aplicação Front-end. Para isso, você deverá importar [este conjunto de dados](https://drive.google.com/file/d/1dbURdS6TjfnweoFSB_0vqJpn77QJFXoZ/view?usp=sharing) em uma tabela no banco de dados de sua escolha. Você deverá expor esses dados através da API.
   

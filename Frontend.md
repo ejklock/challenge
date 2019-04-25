@@ -20,11 +20,6 @@ Apenas usuários logados podem ter acesso à página de Dashboard. Use a imagem 
 
 ![Dashboard look](https://github.com/sauloaguiar/orbita.cc/blob/master/data/dahsboard.jpg "Dashboard")
 
-  
-É esperado que você implemente as seguintes visualizações usando gráfico:
-  - Timeline com o número de instalações agrupadas pelo estado (atributo `State` no conjunto de dados)
-  - Capacidade instalada (atributo `System Size` no conjunto de dados) agrupada pelo ano de instalação
-
 Os 3 widgets disponíveis nas imagens devem mostrar:
   1. Número de instalações feitas. Informações:
      - Valor total
@@ -44,6 +39,13 @@ Os 3 widgets disponíveis nas imagens devem mostrar:
 
 ## Bônus
  - Implementar testes
+ - Implementar as seguintes visualizações usando gráfico:
+  - Timeline com o número de instalações agrupadas pelo estado (atributo `State` no conjunto de dados)
+   - Eixo x: estado
+   - Eixo y: número de instalações do estado
+  - Capacidade instalada (atributo `System Size` no conjunto de dados) agrupada pelo ano de instalação
+   - Eixo x: ano de instalação
+   - Eixo y: capacidade total instalada no ano
  - Gerenciar estado da aplicação utilizando [Redux](https://redux.js.org)
    - Nesse caso, utilizar [redux-thunk](https://github.com/reduxjs/redux-thunk) para chamadas assíncronas
    

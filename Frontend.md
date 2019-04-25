@@ -21,10 +21,9 @@ Apenas usuários logados podem ter acesso à página de Dashboard. Use a imagem 
 ![Dashboard look](https://github.com/sauloaguiar/orbita.cc/blob/master/data/dahsboard.jpg "Dashboard")
 
   
-É esperado que você implemente as seguintes visualizações:
+É esperado que você implemente as seguintes visualizações usando gráfico:
   - Timeline com o número de instalações agrupadas pelo estado (atributo `State` no conjunto de dados)
   - Capacidade instalada (atributo `System Size` no conjunto de dados) agrupada pelo ano de instalação
-  - Custo agrupado pelo mês de instalção
 
 Os 3 widgets disponíveis nas imagens devem mostrar:
   1. Número de instalações feitas. Informações:

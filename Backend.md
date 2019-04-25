@@ -7,19 +7,19 @@
  - Deployment
 
 ## Descrição
-  O desafio consiste em construir um API para servir os dados para a aplicação Front-end. Para isso, você deverá um conjunto de dados (solar_data.json) no banco de dados de sua escolha. Você deverá expor esses dados através da API.
+  O desafio consiste em construir um API para servir os dados para a aplicação Front-end. Para isso, você deverá importar [este conjunto de dados](https://drive.google.com/file/d/1dbURdS6TjfnweoFSB_0vqJpn77QJFXoZ/view?usp=sharing) em uma tabela no banco de dados de sua escolha. Você deverá expor esses dados através da API.
   
-  **Você deverá implementar controle de acesso com o objetivo de expor os dados apenas para usuários logados**. Você pode implementar isso usando o mecanismo que preferir (JWT ou OAuth, por exemplo).
+  **Você deverá implementar controle de acesso com o objetivo de expor os dados apenas para usuários logados**. Você pode implementar isso usando o mecanismo que preferir (JWT ou OAuth, por exemplo). Na página de login deverá ter a opção "Criar Conta".
   A tabela de usuários deverá conter pelos menos os seguintes atributos: `name`, `email`, e `state`.
-  Como requisito, cada usuário só pode ter acesso a dados de instalações solares do seu estado. Em hipótese algum ele deve deve ter acesso a dados de outro estado. Caso um usuário tente acessar dados de um estado que não seja o seu, a API deve retornar o [status HTTP 401 Unauthorized](https://httpstatuses.com/401).
-  Como parte do desafio você deverá também criar o endpoinst `/users`. O que queremos avaliar aqui é como você pensa sobre a modelagem desde endpoint e o porquê de você ter definido ele da forma escolhida. Nós esperamos que você se coloque no lugar do cliente da sua API.
+  Como requisito, cada usuário só pode ter acesso a dados de instalações solares do seu estado. Em hipótese algum ele deve se capaz de acessar dados de instalações de outros estados. Caso um usuário tente acessar dados de um estado que não seja o seu, a API deve retornar o [status HTTP 401 Unauthorized](https://httpstatuses.com/401).
+  Como parte do desafio você deverá também criar o endpoinst `/users` respondendo aos métodos GET, POST e DELETE. O que queremos avaliar aqui é como você pensa sobre a modelagem desde endpoint e o porquê de você ter definido ela da forma escolhida. Nós esperamos que você se coloque no lugar do cliente da sua API.
 
 ## Requisitos obrigatórios
   - Implementar API utilizando RESTful ou GraphQL
-  - Utilizar Node.js para implementação da API utilizando o framework de sua preferência. Alguns exemplos: Express.js, NestJS e Koa
+  - Utilizar Node.js para implementação da API utilizando o framework de sua preferência. Alguns exemplos: [Express.js](https://expressjs.com/), [NestJS](https://nestjs.com) e [Koa](https://koajs.com)
   - A API deve retornar os dados apenas para usuário logados
-  - Padronização do código: seguir algum styleguide de JavaScript e CSS. Se preferir utilize o Prettier
-  - Persistis os dados utilizando um banco de dados. Alguns exemplos: PostgreSQL, MongoDB e MySQL.
+  - Padronização do código: seguir algum styleguide de JavaScript e CSS. Se preferir utilize o [Prettier](https://prettier.io/)
+  - Persistir os dados utilizando um banco de dados. Alguns exemplos: [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com) e [MySQL](https://www.mysql.com)
  
 ## Bônus
   - Implementar testes

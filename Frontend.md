@@ -38,7 +38,7 @@ Os 3 widgets disponíveis nas imagens devem mostrar:
 
 ## Bônus
  - Implementar testes
- - Implementar as seguintes visualizações usando gráfico:
+ - Implementar a seguinte visualização usando gráfico:
    - Capacidade instalada (atributo `System Size` no conjunto de dados) agrupada pelo ano de instalação
      - Eixo x: ano de instalação
      - Eixo y: capacidade total instalada no ano

@@ -39,9 +39,6 @@ Os 3 widgets disponíveis nas imagens devem mostrar:
 ## Bônus
  - Implementar testes
  - Implementar as seguintes visualizações usando gráfico:
-   - Timeline com o número de instalações agrupadas pelo estado (atributo `State` no conjunto de dados)
-     - Eixo x: estado
-     - Eixo y: número de instalações do estado
    - Capacidade instalada (atributo `System Size` no conjunto de dados) agrupada pelo ano de instalação
      - Eixo x: ano de instalação
      - Eixo y: capacidade total instalada no ano

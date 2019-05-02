@@ -15,5 +15,5 @@ Caso você se sinta confortável apenas construindo uma dessas duas partes do de
 - Desenvolva e use Git para versionamento do código
 - Cria um repositório **privado** em um dos três serviços de hospedagem de código: GitHub, BitBucket ou Gitlab
 - Crie um arquivo README com instruções claras sobre como executar seu projeto
-- Adicione no seu repositório um membro com o email vinicius.docarmo@orbita.cc
+- Adicione no seu repositório um membro o usuário "vinimdocarmo"
 - Dúvidas sobre esse projeto podem ser perguntadas por email em vinicius.docarmo@orbita.cc

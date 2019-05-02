@@ -28,7 +28,6 @@ Os 3 widgets disponíveis nas imagens devem mostrar:
      - CEP (`Zip Code`) do local de instalação
      - Custo da instalação
   3. Mostrar os 3 meses do ano com o maior número de instalações. Informações:
-     - CEP
      - Total instalado
     
 ⚠️ Todas as informações mostradas no Dashboard devem abranger apenas o estado (`State`) do usuário logado.

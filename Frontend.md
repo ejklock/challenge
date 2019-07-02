@@ -16,7 +16,7 @@ O objetivo desse desafio é avaliar suas habilidades para construção de uma ap
   - Criação de conta
   - Dashboard
   
-Apenas usuários logados podem ter acesso à página de Dashboard. Use a imagem abaixo como um guia para sua aplicação.
+Apenas usuários logados podem ter acesso à página de Dashboard. A imagem abaixo serve como guia definitivo para a construção da UI da aplicação. Você deve buscar ser o mais fiel possível a ela.
 
 ![Dashboard look](https://github.com/sauloaguiar/orbita.cc/blob/master/data/dahsboard.jpg "Dashboard")
 
@@ -35,6 +35,7 @@ Os 3 widgets disponíveis nas imagens devem mostrar:
 ## Requisitos obrigatórios
  - Utilizar React para construção da UI. Se preferir, use o [create-react-app](https://github.com/facebook/create-react-app) como ponto de partida
  - Padronização do código: seguir algum styleguide de JavaScript e CSS. Se preferir utilize o [Prettier](https://prettier.io/)
+ - Construir a UI se aproximando o máximo possível da imagem acima.
 
 ## Bônus
  - Implementar testes

@@ -8,7 +8,7 @@
  - [Controle de acesso](https://en.wikipedia.org/wiki/Access_control) de sua API
 
 ## Descrição
-  O desafio consiste em construir um API para servir os dados para a aplicação Front-end. Para isso, você deverá importar [este conjunto de dados](https://drive.google.com/file/d/1dbURdS6TjfnweoFSB_0vqJpn77QJFXoZ/view?usp=sharing) em uma tabela no banco de dados de sua escolha. Esse arquivo contêm dados de instalação de painéis solares nos EUA. O quadro abaixo mostra os atributos do conjunto de dados e sua descrição. Você deverá expor esses dados através da API.
+  O desafio consiste em construir um API para servir os dados para a aplicação Front-end. Para isso, você deverá importar [este conjunto de dados](https://drive.google.com/file/d/1dbURdS6TjfnweoFSB_0vqJpn77QJFXoZ/view?usp=sharing) em uma tabela no banco de dados relacional de sua escolha. Esse arquivo contêm dados de instalação de painéis solares nos EUA. O quadro abaixo mostra os atributos do conjunto de dados e sua descrição. Você deverá expor esses dados através da API.
 
 | Nome  | Descrição |
 | ------------- | ------------- |
@@ -29,7 +29,7 @@
   - A API deve retornar os dados apenas para usuário logados
   - Padronização do código: seguir algum styleguide de JavaScript e CSS. Se preferir utilize o [Prettier](https://prettier.io/)
   - Utilizar o conjunto de dados por completo
-  - Persistir os dados utilizando um banco de dados. Alguns exemplos: [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com) e [MySQL](https://www.mysql.com)
+  - Persistir os dados utilizando um banco de dados relacional. Exemplos: [PostgreSQL](https://www.postgresql.org) e [MySQL](https://www.mysql.com)
  
 ## Bônus
   - Implementar testes

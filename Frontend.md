@@ -5,7 +5,7 @@
  - Organização do projeto
  - Arquitetura
  - Clean code
- - UX/UI (use a imagem fornecida como ponto de partida)
+ - UX/UI
 
 ## Descrição
 

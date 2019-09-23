@@ -24,7 +24,7 @@
   Como parte do desafio você deverá também criar o endpoinst `/users` respondendo aos métodos GET, POST e DELETE. O que queremos avaliar aqui é como você pensa sobre a modelagem desde endpoint e o porquê de você ter definido ela da forma escolhida. Nós esperamos que você se coloque no lugar do cliente da sua API.
 
 ## Requisitos obrigatórios
-  - Implementar API utilizando RESTful ou GraphQL
+  - Implementar API utilizando RESTful
   - Utilizar Node.js para implementação da API utilizando o framework de sua preferência. Alguns exemplos: [Express.js](https://expressjs.com/), [NestJS](https://nestjs.com) e [Koa](https://koajs.com)
   - A API deve retornar os dados apenas para usuário logados
   - Padronização do código: seguir algum styleguide de JavaScript e CSS. Se preferir utilize o [Prettier](https://prettier.io/)

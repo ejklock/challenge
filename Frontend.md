@@ -9,7 +9,7 @@
 
 ## Descrição
 
-O objetivo desse desafio é avaliar suas habilidades para construção de uma aplicação Single Page Application (SPA) usando [React.js](https://reactjs.org) para a construção da interface. Essa aplicação deverá se comunicar com a API descrita em [Backend.md](https://github.com/orbita-cc/challenge/blob/master/Backend.md#backend-programming-challenge).
+O objetivo desse desafio é avaliar suas habilidades para construção de uma aplicação Single Page Application (SPA) usando [React.js](https://reactjs.org) para a construção da interface. Essa aplicação deverá se comunicar com a API descrita no arquivo [Backend.md](https://github.com/orbita-cc/challenge/blob/master/Backend.md#backend-programming-challenge). Neste arquivo se encontra também a descrição do conjunto de dados.
 
  A aplicação deve ter três páginas:
   - Login

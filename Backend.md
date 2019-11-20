@@ -30,6 +30,7 @@
   - Padronização do código: seguir algum styleguide de JavaScript e CSS. Se preferir utilize o [Prettier](https://prettier.io/)
   - Utilizar o conjunto de dados por completo
   - Persistir os dados utilizando um banco de dados relacional. Exemplos: [PostgreSQL](https://www.postgresql.org) e [MySQL](https://www.mysql.com)
+  - Implementar processo de importação do conjunto de dados para o banco
  
 ## Bônus
   - Implementar testes

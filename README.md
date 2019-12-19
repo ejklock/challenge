@@ -10,14 +10,14 @@ Esse desafio faz parte do processo seletivo da Orbita para a vaga de _[Software 
 
 ## Cenário
 
-A empresa Green CO possui um milhão de clientes. Na casa desses clientes, a empresa instalou um equipamento no modem de internet para aferir medições de consumo. De hora em hora este equipamento pega o valor em megabyte de quanto foi consumido de dados naquela hora. Logo em seguida, o equipamento envia uma requisição POST HTTP para [https://orbita.cc/dados/medicao](https://orbita.cc/dados/medicao) com as seguintes informações:
+A empresa Green Co. possui um milhão de clientes. Na casa desses clientes, a empresa instalou um equipamento no modem de internet para aferir medições de consumo. De hora em hora este equipamento pega o valor em megabyte de quanto foi consumido de dados naquela hora. Logo em seguida, o equipamento envia uma requisição POST HTTP para [https://orbita.cc/dados/medicao](https://orbita.cc/dados/medicao) com as seguintes informações:
 
 - CPF do cliente
 - megabyte consumido
 - hora do consumo
 - data do consumo
 
-Por motivos técnicos em alguns modems, pode haver casos em que nosso equipamento não consegue aferir a medição de dados de uma determinada hora. Quando isso acontece, o equipamento tenta aferir novamente aquele horário problemático 24 horas depois e em seguida envia a requisição para oservidor. Em caso de falha novamente, o equipamento tentará de 24 em 24 horas.
+Por motivos técnicos em alguns modems, pode haver casos em que nosso equipamento não consegue aferir a medição de dados de uma determinada hora. Quando isso acontece, o equipamento tenta aferir novamente aquele horário problemático 24 horas depois e em seguida envia a requisição para o servidor. Em caso de falha novamente, o equipamento tentará de 24 em 24 horas.
 
 Mensalmente a empresa Green Co. agrega todas as informações de consumo e cria uma fatura para o cliente. Essa fatura contém a quantidade de dados consumida, assim como o valor em reais de quanto o consumir precisa pagar.
 

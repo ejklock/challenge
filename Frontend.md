@@ -21,7 +21,7 @@ O objetivo desse desafio é avaliar suas habilidades de construção de uma apli
 ## Requisitos obrigatórios
  - Utilizar React para construção da UI. Se preferir, use o [create-react-app](https://github.com/facebook/create-react-app) como ponto de partida. React Native não é permitido.
  - Padronização do código: seguir algum styleguide de JavaScript e CSS. Se preferir utilize o [Prettier](https://prettier.io/)
- - Construir a UI que está [neste link](https://xd.adobe.com/view/f89b3f93-34e2-4b86-41ba-1123134bfdea-8eaa/)
+ - Construir a UI que está [neste link](https://www.figma.com/file/SVDFd7NIsrgBGysn6ZRlP4/techChallenge?node-id=0%3A1). Você pode ver também o protótipo nevegável [aqui](https://www.figma.com/proto/SVDFd7NIsrgBGysn6ZRlP4/techChallenge?node-id=1%3A151&viewport=125%2C295%2C0.16937357187271118&scaling=min-zoom).
    
  ## Bônus
  - Usar [TailwindCSS](https://tailwindcss.com/)
